@@ -1,0 +1,38 @@
+# Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+venv/
+ENV/
+env/
+.venv/
+
+# Build directories
+build/
+dist/
+*.egg-info/
+
+# IDE configurations
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Model file (optional, can be added if you don't want to upload the model to GitHub)
+dogcat_classifier/model.h5
+
+# Log files
+*.log
+
+# Coverage reports
+coverage/
+*.cover
