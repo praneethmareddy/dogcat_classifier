@@ -1,7 +1,18 @@
 Project Overview: Dog-Cat Classifier Python Package
 This project focuses on creating a machine learning model that classifies images of dogs and cats. The model is encapsulated within a Python package, making it easy to install and use. The package employs TensorFlow for model training and inference, while OpenCV and Pillow are utilized for image processing. It is distributed via PyPI (Python Package Index).
+
+
+
+
+
 Project Structure
 The project is organized as follows:
+
+
+
+
+
+
 dogcat_classifier/
 │
 ├── dogcat_classifier/         # Main package folder
