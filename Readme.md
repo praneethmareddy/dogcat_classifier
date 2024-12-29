@@ -67,7 +67,6 @@ image_path = 'path_to_your_image.jpg'
 result = predict_image(image_path)
 
 print(f'The image is a {result}.')
-
 '''
 Why This Approach?
 Using python setup.py sdist bdist_wheel: This command generates distribution files required for uploading to PyPI.
